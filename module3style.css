@@ -1,0 +1,43 @@
+body
+{
+	background-color: maroon;
+}
+#header-nav
+{
+	border:0;
+	background-color: orange;
+	border-radius:0;
+	
+
+}
+
+	.contents
+	{
+		background-color: blue;
+		margin-bottom: 45px;
+		
+	}
+	p{
+		padding: 8px;
+		font-size: 30px;
+	}
+	strong
+	{
+		font-size: 30px;
+	}
+	#collapsible-nav
+	{
+	
+		margin-left: auto;
+		margin-right: auto;
+	
+	}
+	.horizantal
+	{
+		width: 100%;
+	}li a:hover
+	{
+		
+		background-color: black;	
+	}
+	
